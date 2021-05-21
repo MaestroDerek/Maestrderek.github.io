@@ -15,11 +15,11 @@ author: Derek Ledford
 
 navbar-links:
   Home: "home"
-  About: 
-    - Website: "about"
-    - Derek: "aboutme"
   Employment: "employment"
   Education: "education"
+    About: 
+    - Website: "about"
+    - Derek: "aboutme"
 
 # --- Logo --- #
 
