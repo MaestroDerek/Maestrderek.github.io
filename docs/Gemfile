@@ -9,5 +9,3 @@ require 'em/pure_ruby'
 gem 'tzinfo-data'
 gem 'wdm', '>= 0.1.0'
 
-gem "github-pages", "~> 214", group :jekyll_plugins
-
